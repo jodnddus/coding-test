@@ -1,7 +1,7 @@
 /**
  * title: 과제 진행하기 
  * link: https://school.programmers.co.kr/learn/courses/30/lessons/176962
- * algorithm: 
+ * algorithm: implement 
  */
 
 // solution([["korean", "11:40", "30"], ["english", "12:10", "20"], ["math", "12:30", "40"]]);
